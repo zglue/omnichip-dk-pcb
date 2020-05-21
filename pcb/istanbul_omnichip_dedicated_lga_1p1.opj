@@ -1,0 +1,105 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "g:\my drive\zglue engineering\projects\orcad libraries\cis_library.olb"
+        (Type "Schematic Library"))
+      (File
+         "g:\my drive\zglue engineering\projects\orcad libraries\omnichip_ds_library.olb"
+        (Type "Schematic Library"))
+      (File
+         "g:\my drive\zglue engineering\projects\orcad libraries\zglue_standard_lib.olb"
+        (Type "Schematic Library"))
+      (File
+         "g:\my drive\zglue engineering\projects\orcad libraries\zglue_zips.olb"
+        (Type "Schematic Library"))
+      (File
+         "g:\my drive\zglue engineering\projects\orcad libraries\ziplet_library.olb"
+        (Type "Schematic Library")))
+    (File ".\istanbul_omnichip_dedicated_lga_1p1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "TRUE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File
+       "G:\MY DRIVE\ZGLUE ENGINEERING\PROJECTS\CUSTOMER\ZEUS2_ISTANBUL_OMNICHIP_DEDICATED_LGA\01_OEM_PRODUCT\07_OEM_PCB_SCHEMATIC\REV_P1.0\CUSTOMER FACING SCHEMATIC\ISTANBUL_OMNICHIP_DEDICATED_LGA_1P1.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (NoModify))
+  (Folder "Outputs"
+    (File ".\istanbul_omnichip_dedicated_lga_1p1.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (MPSSessionName "Son")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\istanbul_omnichip_dedicated_lga_1p1.dsn")
+      (Path "Design Resources" ".\istanbul_omnichip_dedicated_lga_1p1.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" ".\istanbul_omnichip_dedicated_lga_1p1.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "g:\my drive\zglue engineering\projects\orcad libraries\cis_library.olb")
+      (Path "Design Resources" "Library"
+         "g:\my drive\zglue engineering\projects\orcad libraries\omnichip_ds_library.olb")
+      (Path "Design Resources" "Library"
+         "g:\my drive\zglue engineering\projects\orcad libraries\zglue_standard_lib.olb")
+      (Path "Design Resources" "Library"
+         "g:\my drive\zglue engineering\projects\orcad libraries\zglue_zips.olb")
+      (Path "Outputs")
+      (Select "Design Resources" "Library"
+         "g:\my drive\zglue engineering\projects\orcad libraries\zglue_zips.olb"
+         "Zeus2_OmniChip_DedicatedRun_LGA"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 282"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1636 52 584")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "G:\MY DRIVE\ZGLUE ENGINEERING\PROJECTS\CUSTOMER\ZEUS2_ISTANBUL_OMNICHIP_DEDICATED_LGA\01_OEM_PRODUCT\07_OEM_PCB_SCHEMATIC\REV_P1.0\CUSTOMER FACING SCHEMATIC\ISTANBUL_OMNICHIP_DEDICATED_LGA_1P1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "OmniChip2"))))

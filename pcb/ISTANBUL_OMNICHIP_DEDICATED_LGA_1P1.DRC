@@ -1,0 +1,78 @@
+Date and Time : 01/05/20 18:08:56
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict VUSB  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (10.40, 5.36) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,BQ_IN  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 3.55) 
+WARNING(ORCAP-1829): Possible pin type conflict ZIP_VCC  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (13.05, 4.24) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,BQ_VINLS  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 5.05) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,VDDANA  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 7.25) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,VBATH  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 6.05) 
+WARNING(ORCAP-1829): Possible pin type conflict SYSLDO_OUT  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (23.62, 11.44) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,LDOX_IN  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 7.35) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,VDDIO  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 7.45) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,SYSLDO_OUT  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 7.05) 
+WARNING(ORCAP-1829): Possible pin type conflict VRAIL1  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (11.96, 4.45) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,LDO1_OUT  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 7.75) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,VRAIL1  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 8.25) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,A  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (26.32, 9.25) 
+WARNING(ORCAP-1829): Possible pin type conflict GND  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (20.63, 5.19) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,MCU_RF_GND  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (18.81, 6.55) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,VSS_0  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (7.17, 6.87) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSSD  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (8.86, 12.69) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,VSS_1  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (3.47, 2.17) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,BQ_PGND  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 5.15) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,GND  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 8.35) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,VBATL_SW  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 6.65) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,EP  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (11.56, 14.39) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,BOOST_GND  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 6.85) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (26.32, 9.55) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSSD  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (8.86, 12.39) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,BQ_GND  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 3.65) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,VBATL  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (14.91, 6.25) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSSA  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (8.86, 12.99) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSSD  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (8.86, 12.09) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,PPG_GND  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (18.81, 4.45) 
+WARNING(ORCAP-1829): Possible pin type conflict D30  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (22.66, 10.07) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,D30  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (18.81, 9.85) 
+WARNING(ORCAP-1831): Unconnected pin U4,WAKEUP 
+                    SCHEMATIC1, PAGE1  (11.56, 14.29) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
