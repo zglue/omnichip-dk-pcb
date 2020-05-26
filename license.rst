@@ -65,7 +65,7 @@ While redistributing the Work or Derivative Works thereof, You may choose to off
 
 END OF TERMS AND CONDITIONS
 
-© Copyright 2019 zGlue
+Copyright © 2019 zGlue Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
