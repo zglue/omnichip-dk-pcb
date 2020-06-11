@@ -15,8 +15,8 @@ Contact(s): jorge@zglue.com, olivia@zglue.com
 
 *Released under zOH License v. 1.0 for open-source development*
 
-Background
-==========
+Overview
+========
 
 `Click here to purchase an OmniChip development board <https://zglue.com/products/omnichip>`_
 
